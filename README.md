@@ -1,16 +1,10 @@
 # chatapp
 
-A new Flutter project.
+👋 A simplpe flutter chatapp enables you to send and receive messages.
+Chatting apps make it easier, simpler, and faster to connect with everyone and it is also easy to use. .
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
+![Add a subheading (3)](https://github.com/Nt1076/Chat-Application/assets/96333085/813b79b2-8364-4b75-bc3f-b780e0373c80)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
